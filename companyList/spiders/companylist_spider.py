@@ -74,6 +74,7 @@ class CompanyObjects (CrawlSpider):
             'twitter': Companylink.twitter,
             'youtube': Companylink.youtube,
             'reddit': Companylink.reddit,
+            'pintrest': Companylink.pintrest,
             'tiktok': Companylink.tiktok,
             'discord': Companylink.discord,
             'twitch': Companylink.twitch,
